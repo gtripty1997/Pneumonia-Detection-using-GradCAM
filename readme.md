@@ -152,9 +152,7 @@ The training code is not part of this repository.
 
 ## Future Improvements
 
-- Calibrate the model score and flag uncertain images
 - Fine-tune more layers or try ResNet, DenseNet or EfficientNet
-- Higher-resolution explanations (Grad-CAM++, Score-CAM)
 - Drag-and-drop upload and other UI improvements
 - Cloud deployment (Render / Hugging Face)
 - Multi-disease detection
@@ -165,4 +163,4 @@ This application is a research and demonstration project, not a medical device. 
 
 ## Author
 
-Aditi Gupta
+Tripty Garg

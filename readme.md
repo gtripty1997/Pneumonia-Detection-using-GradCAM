@@ -46,7 +46,6 @@ Pneumonia-Detection-AI/
 
 ```bash
 git lfs install
-git clone https://github.com/AditiGupta2412/Pneumonia-Detection-AI.git
 cd Pneumonia-Detection-AI
 ```
 
